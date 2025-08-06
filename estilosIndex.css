@@ -31,4 +31,6 @@ body {
     gap: 20px;
     background-image: url('/img/istockphoto-1094721986-612x612.jpg');
     overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
